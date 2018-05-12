@@ -1,0 +1,30 @@
+_repo: Medieval-English-Literature_37342
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ker, W. P. (William Paton)
+    alias: Ker, William Paton
+    birthdate: 1855
+    deathdate: 1923
+    gutenberg_agent_id: '9801'
+    url: http://www.gutenberg.org/2009/agents/9801
+description: ''
+gutenberg_issued: '2011-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37342'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Home University Library of Modern Knowledge, No. 43
+subjects:
+- !lcsh 'English literature -- Middle English, 1100-1500 -- History and criticism'
+- !lcsh 'Civilization, Medieval, in literature'
+- !lcsh 'English literature -- Old English, ca. 450-1100 -- History and criticism'
+- !lcc 'PR'
+title: Medieval English Literature
+url: http://www.gutenberg.org/ebooks/37342
